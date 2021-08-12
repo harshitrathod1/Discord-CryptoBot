@@ -1,5 +1,3 @@
-First of all I would like to thank Balaji Srinivasan to get me into his newsletter 1729.com.
-From there only I came to know about the task to build a discord bot.
 
 Name of BOT :- CryptoWhale
 Purpose :- It uses two different api to provide real time updates about 
