@@ -47,3 +47,9 @@ Here k is any integer between 1 and 50(inclusive)
 11. "$cmd" : To get all commands on the discord
 
 NOTE :- Since the bot can be used in any chat segment of discord hence the bot will reply only when you enter the correct command. If you don't enter the predefined commands you may get no response.
+
+
+
+https://user-images.githubusercontent.com/48837539/144722197-9cc67251-f461-44e3-83c5-324be52dbe3f.mp4
+
+
