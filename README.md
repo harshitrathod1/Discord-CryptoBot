@@ -50,6 +50,9 @@ NOTE :- Since the bot can be used in any chat segment of discord hence the bot w
 
 
 
-https://user-images.githubusercontent.com/48837539/144722197-9cc67251-f461-44e3-83c5-324be52dbe3f.mp4
+
+
+
+https://user-images.githubusercontent.com/48837539/144722265-922f12a0-18d2-48c7-a941-3b29c097ba73.mp4
 
 
